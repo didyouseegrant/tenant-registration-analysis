@@ -41,3 +41,8 @@ For a more detailed look into the project, check out my [Notion case study!](htt
 ├── dashboard/
 │   └── registration_dashboard.twbx
 └── README.md
+```
+
+## Dashboard
+
+The Tableau dashboard summarizes registration status across 16 properties, including:
