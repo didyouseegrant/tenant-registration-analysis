@@ -54,6 +54,7 @@ The Tableau dashboard summarizes registration status across 16 properties, inclu
 - Designed to guide **outreach efforts** and improve **portal adoption**
 
 ![Dashboard Preview](dashboard/April 2025.png) 
+
 ---
 
 ## Disclaimer
