@@ -46,3 +46,10 @@ For a more detailed look into the project, check out my [Notion case study!](htt
 ## Dashboard
 
 The Tableau dashboard summarizes registration status across 16 properties, including:
+- **KPIs** for total units, registered units, invited/unregistered counts
+- Bar chart of **registration status by property**, with filterable view
+- Designed to guide **outreach efforts** and improve **portal adoption**
+
+## Disclaimer
+
+All sample files contain **placeholder data** and modified scripts to protect sensitive company information. Values and names used in this repository are for demonstration purposes only.
