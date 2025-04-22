@@ -4,6 +4,8 @@ This project automates the cleaning and consolidation of tenant registration dat
 
 For a more detailed look into the project, check out my [Notion case study!](https://www.notion.so/Resident-Portal-Registration-Analysis-Excel-VBA-Tableau-1d9fcf2408d080d18c8dca641c623dd2)
 
+To have a more interactive look at my visualization, go directly to my [Dashboard!](https://public.tableau.com/app/profile/didyouseegrant/viz/RCRegistrationApril2025/Dashboard1)
+
 ---
 
 ## Features
