@@ -41,7 +41,7 @@ To have a more interactive look at my visualization, go directly to my [Dashboar
 │   ├── 3. cleaned_output/
 │   │   └── tenant_registration_summary.xlsx
 ├── dashboard/
-│   └── April 2025.png
+│   └── April_2025.png
 └── README.md
 ```
 ---
