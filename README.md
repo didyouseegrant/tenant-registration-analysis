@@ -44,6 +44,7 @@ To have a more interactive look at my visualization, go directly to my [Dashboar
 │   └── April 2025.png
 └── README.md
 ```
+---
 
 ## Dashboard
 
@@ -51,6 +52,9 @@ The Tableau dashboard summarizes registration status across 16 properties, inclu
 - **KPIs** for total units, registered units, invited/unregistered counts
 - Bar chart of **registration status by property**, with filterable view
 - Designed to guide **outreach efforts** and improve **portal adoption**
+
+![Dashboard Preview](dashboard/April 2025.png) 
+---
 
 ## Disclaimer
 
