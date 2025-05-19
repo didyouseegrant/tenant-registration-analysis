@@ -32,16 +32,12 @@ To have a more interactive look at my visualization, go directly to my [Dashboar
 ## Structure
 
 ```plaintext
-├── tenant_registration/
-│   ├── 1. raw_data/
-│   │   ├── yardi_export.xlsx
-│   │   └── rentcafe_export.xlsx
-│   ├── 2. scripts/
-│   │   └── registration_cleaning_macro.bas
-│   ├── 3. cleaned_output/
-│   │   └── tenant_registration_summary.xlsx
 ├── dashboard/
 │   └── April_2025.png
+├── sample_data/
+│   └── RC_Registration_Report_Sample.xlsx
+├── vba_script/
+│   └── rc_reg.bas
 └── README.md
 ```
 ---
